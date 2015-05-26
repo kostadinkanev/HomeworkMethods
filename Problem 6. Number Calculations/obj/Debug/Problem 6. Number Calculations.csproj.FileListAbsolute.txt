@@ -1,0 +1,6 @@
+E:\C#\Advanced C# may 2015\HomeworkMethods\Problem 6. Number Calculations\bin\Debug\Problem_6.Number_Calculations.exe.config
+E:\C#\Advanced C# may 2015\HomeworkMethods\Problem 6. Number Calculations\bin\Debug\Problem_6.Number_Calculations.exe
+E:\C#\Advanced C# may 2015\HomeworkMethods\Problem 6. Number Calculations\bin\Debug\Problem_6.Number_Calculations.pdb
+E:\C#\Advanced C# may 2015\HomeworkMethods\Problem 6. Number Calculations\obj\Debug\Problem 6. Number Calculations.csprojResolveAssemblyReference.cache
+E:\C#\Advanced C# may 2015\HomeworkMethods\Problem 6. Number Calculations\obj\Debug\Problem_6.Number_Calculations.exe
+E:\C#\Advanced C# may 2015\HomeworkMethods\Problem 6. Number Calculations\obj\Debug\Problem_6.Number_Calculations.pdb

@@ -1,0 +1,6 @@
+E:\C#\Advanced C# may 2015\HomeworkMethods\Problem 3. Larger Than Neighbours\bin\Debug\Problem_3.Larger_Than_Neighbours.exe.config
+E:\C#\Advanced C# may 2015\HomeworkMethods\Problem 3. Larger Than Neighbours\bin\Debug\Problem_3.Larger_Than_Neighbours.exe
+E:\C#\Advanced C# may 2015\HomeworkMethods\Problem 3. Larger Than Neighbours\bin\Debug\Problem_3.Larger_Than_Neighbours.pdb
+E:\C#\Advanced C# may 2015\HomeworkMethods\Problem 3. Larger Than Neighbours\obj\Debug\Problem 3. Larger Than Neighbours.csprojResolveAssemblyReference.cache
+E:\C#\Advanced C# may 2015\HomeworkMethods\Problem 3. Larger Than Neighbours\obj\Debug\Problem_3.Larger_Than_Neighbours.exe
+E:\C#\Advanced C# may 2015\HomeworkMethods\Problem 3. Larger Than Neighbours\obj\Debug\Problem_3.Larger_Than_Neighbours.pdb

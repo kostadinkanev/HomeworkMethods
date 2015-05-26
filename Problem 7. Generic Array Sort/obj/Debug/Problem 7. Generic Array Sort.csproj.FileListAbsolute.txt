@@ -1,0 +1,1 @@
+E:\C#\Advanced C# may 2015\HomeworkMethods\Problem 7. Generic Array Sort\bin\Debug\Problem_7.Generic_Array_Sort.exe.config
